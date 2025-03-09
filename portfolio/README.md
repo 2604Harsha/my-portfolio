@@ -4,10 +4,10 @@ Static website made with HTML, CSS, JS and Bootstrap
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
+- [Demo](portfolio/README.md#demo)
+- [Installation](portfolio/README.md#installation)
+- [Usage](portfolio/README.md#usage)
+- [Customization](portfolio/README.md#customization)
 
 ## Demo
 [Demo](https://github.com/2604Harsha/my-portfolio)
